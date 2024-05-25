@@ -31,6 +31,7 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
+  "Continous Integration & Deployment (CI/CD)",
   "Web design",
   "User experience",
   "Inclusive design",
